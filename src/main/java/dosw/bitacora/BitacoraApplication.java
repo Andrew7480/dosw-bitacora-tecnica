@@ -8,6 +8,7 @@ public class BitacoraApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BitacoraApplication.class, args);
+		System.err.println("Hola Mundo");
 	}
 
 }
