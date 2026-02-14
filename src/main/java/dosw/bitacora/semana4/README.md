@@ -28,6 +28,8 @@ Empoderar a adolescentes y adultos para que expresen su creatividad a través de
 
 ## Diseño
 
+<img width="603" height="800" alt="image" src="https://github.com/user-attachments/assets/203b9a2b-71b7-4948-a01b-6643936bb5bd" />
+
 
 ## Propuesta de Valor
 
@@ -100,4 +102,11 @@ Los colores del arcoiris fomentan activamente la creatividad, la imaginación y 
 
 
 ## Logo final
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c3becb4-c170-4973-8026-671e5adecbfe" />
+
+
+## Ejemplos generados por IA
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/66676cef-251a-4f67-9798-e91879636b49" />
 
